@@ -5,7 +5,6 @@ def proste_chislo(list):
             rez += 1
     return rez
 
-
 if __name__ == "__main__":
     try:
         list = [1, 12, 6, 3, 19, 8, 4, 5]
