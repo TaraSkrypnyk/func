@@ -3,7 +3,6 @@ def step_list(list, step):
         list[i] = list[i]**step
     return list
 
-
 if __name__ == "__main__":
     try:
         list = [1, 12, 6, 3, 19, 8, 4, 5]
