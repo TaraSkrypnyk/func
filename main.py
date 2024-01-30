@@ -10,6 +10,7 @@ def delete_from_list(list, d):
         i += 1
     return rez, list
 
+
 if __name__ == "__main__":
     try:
         list = [1, 12, 6, 3, 19, 8, 4, 5]
