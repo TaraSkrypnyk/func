@@ -1,7 +1,7 @@
 def step_list(list, step):
-    for i in range len(list):
-
-
+    for i in range(len(list)):
+        list[i] = list[i]**step
+    return list
 
 
 if __name__ == "__main__":
